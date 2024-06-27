@@ -18,4 +18,19 @@ console.log(+" ");
 console.log(+"hi");
 let a=100;
 //console.log(a++);
-console.log(++a);// print after double increment;
+// console.log(++a);// print after double increment;
+// console.log(2>1);
+// console.log(2>=1);
+// console.log(2<1);
+// console.log(2==1);
+// console.log(2!=1);
+//comfution point null
+// console.log(null>0);
+// console.log(null==0);
+// console.log(null>=0);
+console.log(undefined==0);
+console.log(undefined>0);
+console.log(undefined>=0);
+console.log("2"==2);
+
+
