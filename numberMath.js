@@ -1,0 +1,20 @@
+const score=400;
+let val=new Number(100);
+// console.log(score);
+// console.log(val.toString().length);
+val=100.6895;
+// console.log(val);
+// console.log(val.toFixed(2));
+// console.log(val.toPrecision(5));
+val=10000000;
+// console.log(val.toLocaleString('en-IN'));
+// console.log(val.toExponential());
+//++++++++++++++++++++++Math+++++++++++++++++++==============
+val=0;
+console.log(Number.isFinite(val));
+console.log(Number.isInteger(val));
+console.log(Number.isNaN(val));
+console.log(Number.isSafeInteger(val));
+val=100;
+console.log(Number.parseFloat(val));
+console.log(typeof Number.parseInt("2000"));
